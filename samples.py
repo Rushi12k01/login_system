@@ -24,3 +24,6 @@ current.execute("INSERT INTO testdata (username,password) VALUES (?,?)",(usernam
 
 
 connection.commit()
+
+#commit
+print("hello")
